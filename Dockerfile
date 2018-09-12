@@ -6,7 +6,7 @@ ARG VERSION
 LABEL build_version="Linuxserver.io version:- ${VERSION} Build-date:- ${BUILD_DATE}"
 
 # package versions
-ARG UNIFI_VER="5.9.22-d2a4718971"
+ARG UNIFI_VER="5.9.26-25460f7409"
 
 # environment settings
 ARG DEBIAN_FRONTEND="noninteractive"
